@@ -1,0 +1,497 @@
+[
+   {
+      "course_code": "CUS1102",
+      "crn": "12943",
+      "title": "SOFTWARE APPLICATION",
+      "instructor": "Felicetti, Robert Alvaro",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1102",
+      "crn": "10246",
+      "title": "SOFTWARE APPLICATION",
+      "instructor": "Lieberman, Barry",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "5",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1115",
+      "crn": "11501",
+      "title": "COMPUTER PROG FUND I",
+      "instructor": "DeBello, Joan",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CUS1115",
+      "crn": "12558",
+      "title": "COMPUTER PROG FUND I",
+      "instructor": "Fluture, Simina",
+      "course_day": "Wednesday",
+      "seats_available": "5",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CUS1116",
+      "crn": "12321",
+      "title": "COMPUTER PROG FUND II",
+      "instructor": "Tedeschi, Mary\t",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "5",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CUS1116",
+      "crn": "12329",
+      "title": "COMPUTER PROG FUND II",
+      "instructor": "MacKellar, Bonnie",
+      "course_day": "Monday, Thursday",
+      "seats_available": "5",
+      "course_type": "Lecture ,Lab"
+   },
+   {
+      "course_code": "CUS1126",
+      "crn": "11737",
+      "title": "INTRO TO DATA STRUCTURES",
+      "instructor": "Yadav, Nikhil",
+      "course_day": "Monday, Thursday",
+      "seats_available": "7",
+      "course_type": "Lecture/Lab"
+   },
+   {
+      "course_code": "CUS1150",
+      "crn": "15476",
+      "title": "SYSTEMS PROGRAMMING IN LINUX",
+      "instructor": "MacKellar, Bonnie",
+      "course_day": "Monday, Thursday",
+      "seats_available": "6",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CUS1151",
+      "crn": "11280",
+      "title": "ADVANCED DATA STRUCTURES",
+      "instructor": "Keshtkar, Fazel",
+      "course_day": "Tuesday",
+      "seats_available": "0",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CUS1156",
+      "crn": "15475",
+      "title": "SOFTWARE DESIGN METHODS",
+      "instructor": "MacKellar, Bonnie",
+      "course_day": "Wednesday",
+      "seats_available": "19",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1156",
+      "crn": "12560",
+      "title": "SOFTWARE DESIGN METHODS",
+      "instructor": "Yadav, Nikhil",
+      "course_day": "Thursday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CUS1163",
+      "crn": "12561",
+      "title": "OPERATING SYSTEMS",
+      "instructor": "Smith-Thompson, Anne",
+      "course_day": "Monday, Thursday",
+      "seats_available": "9",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1165",
+      "crn": "15468",
+      "title": "DATA BASE MANAGEMENT SYSTEMS",
+      "instructor": "Scorce, Richard",
+      "course_day": "Thursday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CUS1165",
+      "crn": "11738",
+      "title": "DATA BASE MANAGEMENT SYSTEMS",
+      "instructor": "Scorce, Richard",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1166",
+      "crn": "12948",
+      "title": "SOFTWARE ENGINEERING",
+      "instructor": "Tedeschi, Mary",
+      "course_day": "Wednesday",
+      "seats_available": "17",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CUS1167",
+      "crn": "12056",
+      "title": "SYSTEMS ANALYSIS",
+      "instructor": "Scorce, Richard",
+      "course_day": "Monday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CUS1172",
+      "crn": "15412",
+      "title": "WEB PAGE GRAPHICS",
+      "instructor": "Christoforou, Christoforos",
+      "course_day": "Thursday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CUS1174",
+      "crn": "12324",
+      "title": "ARTIFICIAL INTELLIGENCE",
+      "instructor": "Sklar, Ronald",
+      "course_day": "Tuesday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CUS1185",
+      "crn": "15696",
+      "title": "DATA SECURITY & CRYPTOGRAPHY",
+      "instructor": "Troja, Erald",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1185",
+      "crn": "11502",
+      "title": "DATA SECURITY & CRYPTOGRAPHY",
+      "instructor": "Troja, Erald",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1186",
+      "crn": "13802",
+      "title": "THEORY OF COMPUTATION",
+      "instructor": "Fechter, Ronald",
+      "course_day": "Tuesday",
+      "seats_available": "12",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CUS1188",
+      "crn": "12562",
+      "title": "ANALYSIS OF ALGORITHMS",
+      "instructor": "Christoforou, Christoforos",
+      "course_day": "Tuesday",
+      "seats_available": "18",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "IT1011",
+      "crn": "13136",
+      "title": "INFO TECHNOLOGY FOR BUSINESS",
+      "instructor": "Dick, Geoffrey",
+      "course_day": "Monday, Thursday",
+      "seats_available": "19",
+      "course_type": "Lecture/Lab"
+   },
+   {
+      "course_code": "MTH1003",
+      "crn": "10745",
+      "title": "INTRO TO COLLEGE MATH I",
+      "instructor": "Chakraborty, Hector",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1003",
+      "crn": "10037",
+      "title": "INTRO TO COLLEGE MATH I",
+      "instructor": "Achtziger, Joseph",
+      "course_day": "Saturday",
+      "seats_available": "15",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1004",
+      "crn": "12619",
+      "title": "INTRO TO COLLEGE MATH II",
+      "instructor": "Mollo-Holmes, Linda",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1004",
+      "crn": "10901",
+      "title": "INTRO TO COLLEGE MATH II",
+      "instructor": "Laneri, Peter",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1007",
+      "crn": "10032",
+      "title": "COLLEGE ALGEBRA & TRIGONOMETRY",
+      "instructor": "Manley, Michael",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1007",
+      "crn": "10033",
+      "title": "COLLEGE ALGEBRA & TRIGONOMETRY",
+      "instructor": "Manley, Michael",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "4",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1008",
+      "crn": "11517",
+      "title": "MATRIX METHODS",
+      "instructor": "Laneri, Peter",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1008",
+      "crn": "10127",
+      "title": "MATRIX METHODS",
+      "instructor": "Laneri, Peter",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "5",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1009",
+      "crn": "10747",
+      "title": "CALCULUS I",
+      "instructor": "Vaisfeld, Michael",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "22",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1009",
+      "crn": "14054",
+      "title": "CALCULUS I",
+      "instructor": "Elmrini, Abdel Aziz",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "1",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1010",
+      "crn": "10031",
+      "title": "CALCULUS II",
+      "instructor": "Servas, Frank",
+      "course_day": "Wednesday",
+      "seats_available": "14",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1010",
+      "crn": "12950",
+      "title": "CALCULUS II",
+      "instructor": "Latzman, Gerald",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1013",
+      "crn": "12327",
+      "title": "PROBABILITY AND STATISTICS I",
+      "instructor": "Parmar, Davanjit",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1013",
+      "crn": "11661",
+      "title": "PROBABILITY AND STATISTICS I",
+      "instructor": "Servas, Frank",
+      "course_day": "Tuesday",
+      "seats_available": "10",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "MTH1014",
+      "crn": "11518",
+      "title": "PROBABILITY AND STATISTICS II",
+      "instructor": "Singh, Satyanand",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "MTH1014",
+      "crn": "11662",
+      "title": "PROBABILITY AND STATISTICS II",
+      "instructor": "Servas, Frank",
+      "course_day": "Tuesday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "MTH1022",
+      "crn": "12571",
+      "title": "DISCRETE MATHEMATICS",
+      "instructor": "Singh, Satyanand",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "NET1011",
+      "crn": "11882",
+      "title": "INTRODUCTION TO NETWORKS",
+      "instructor": "Greenidge, Maxine",
+      "course_day": "Wednesday",
+      "seats_available": "0",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "NET1015",
+      "crn": "11634",
+      "title": "ROUTING & SWITCHING ESSENTIALS",
+      "instructor": "Greenidge, Maxine",
+      "course_day": "Wednesday",
+      "seats_available": "0",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "HCI1002",
+      "crn": "15413",
+      "title": "HEALTHCARE INFO & DATA MGT",
+      "instructor": "Bukhari, Syed Ahmad Chan",
+      "course_day": "Tuesday, Friday",
+      "seats_available": "14",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "HCI1015",
+      "crn": "15630",
+      "title": "DATA STANDARDS/VOCAB IN HLTHCR",
+      "instructor": "Bukhari, Syed Ahmad Chan",
+      "course_day": "Tuesday",
+      "seats_available": "23",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "HCI1021",
+      "crn": "11881",
+      "title": "HEALTHCARE DATABASE MGT SYS",
+      "instructor": "Bukhari, Syed Ahmad Chan",
+      "course_day": "Wednesday",
+      "seats_available": "4",
+      "course_type": "Lecture"
+   },
+   {
+      "course_code": "CSS1005",
+      "crn": "11635",
+      "title": "FUNDAMENTALS OF CYBER SECURITY",
+      "instructor": "Otero, Juan",
+      "course_day": "Wednesday",
+      "seats_available": "3",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CSS1005",
+      "crn": "13323",
+      "title": "FUNDAMENTALS OF CYBER SECURITY",
+      "instructor": "Troja, Erald",
+      "course_day": "Friday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CSS1006",
+      "crn": "13913",
+      "title": "MGT OF INFORMATION SECURITY",
+      "instructor": "Dick, Geoffrey",
+      "course_day": "Monday, Thursday",
+      "seats_available": "0",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CSS1008",
+      "crn": "13858",
+      "title": "HEALTHCARE INFO SECURITY",
+      "instructor": "Naseem, Sajed",
+      "course_day": "Wednesday",
+      "seats_available": "15",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CSS1011",
+      "crn": "13857",
+      "title": "NETWORK SECURITY",
+      "instructor": "Schmeelk, Suzanna",
+      "course_day": "Tuesday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CSS1012",
+      "crn": "11500",
+      "title": "NETWORK PERIMETER SECURITY",
+      "instructor": "Otero, Juan",
+      "course_day": "Monday",
+      "seats_available": "16",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CSS1015",
+      "crn": "14986",
+      "title": "WIRELESS SECURITY",
+      "instructor": "Schmeelk, Suzanna",
+      "course_day": "Monday",
+      "seats_available": "11",
+      "course_type": "Hybrid"
+   },
+   {
+      "course_code": "CSS1018",
+      "crn": "15411",
+      "title": "SQL & CLOUD DATABASE SECURITY",
+      "instructor": "Chacko, Anil",
+      "course_day": "Monday",
+      "seats_available": "2",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CSS1032",
+      "crn": "10959",
+      "title": "CYBER THREATS AND DETECTION",
+      "instructor": "Otero, Juan",
+      "course_day": "Monday",
+      "seats_available": "0",
+      "course_type": "Lecture, Lab"
+   },
+   {
+      "course_code": "CSS1035",
+      "crn": "14985",
+      "title": "SECURE SOFTWARE DEVELOPMENT",
+      "instructor": "Schmeelk, Suzanna",
+      "course_day": "Tuesday",
+      "seats_available": "0",
+      "course_type": "Hybrid"
+   }
+]

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Find Courses</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://bootswatch.com/4/yeti/bootstrap.min.css">
+  <script src="script.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <header style="text-align:center">
+    <div class="headerpic">
+      <h1><strong>St. John's University Course Search</strong><img src="https://www.stjohns.edu/sites/default/files/styles/640w/public/2019-01/SJU_Spring2018-047_1600x900.jpg?itok=vFiD6Nwc" alt="generic lab pic" class="img-fluid rounded-circle"></h1>
+    </div>
+  </header>
+
+  <br><br>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-sm-11">
+        <h2><strong>Please choose the field of classes you are looking for</strong></h2>
+        <div class="searchBar">
+          <input id='searchBar' type="text" value="">
+          <input id='searchButton' type="button" name="" value="Search">
+          <p>Type: CUS, IT, MTH, NET, HCI, or CSS</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-sm-11">
+        <div class="display">
+          <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">Course Code</th>
+                <th scope="col">Course Title</th>
+                <th scope="col">Instructor</th>
+                <th scope="col">Course Day</th>
+                <th scope="col">Seats Available</th>
+                <th scope="col">Course Type</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% data.forEach(function(i){ %>
+              <tr class="table-secondary">
+                <td><%= i.course_code %></td>
+                <td><%= i.title %></td>
+                <td><%= i.instructor %></td>
+                <td><%= i.course_day %></td>
+                <td><%= i.seats_available %></td>
+                <td><%= i.course_type %></td>
+              </tr>
+              <% }) %>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+
+</html>
